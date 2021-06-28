@@ -1,5 +1,5 @@
 import { transparentize } from 'polished'
-import { ReactNode } from 'react'
+import React, { ReactNode } from 'react'
 import { Link } from 'react-router-dom'
 
 import { AlertTriangle } from 'react-feather'

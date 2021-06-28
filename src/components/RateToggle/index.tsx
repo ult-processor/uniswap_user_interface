@@ -1,4 +1,5 @@
 import { Trans } from '@lingui/macro'
+import React from 'react'
 import { Currency } from '@uniswap/sdk-core'
 import { ToggleElement, ToggleWrapper } from 'components/Toggle/MultiToggle'
 

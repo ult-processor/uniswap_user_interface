@@ -1,3 +1,5 @@
+import React from 'react'
+
 import Badge, { BadgeVariant } from 'components/Badge'
 import styled from 'styled-components/macro'
 

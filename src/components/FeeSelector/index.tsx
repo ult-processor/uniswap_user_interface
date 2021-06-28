@@ -1,3 +1,4 @@
+import React from 'react'
 import { FeeAmount } from '@uniswap/v3-sdk'
 import { Trans } from '@lingui/macro'
 import { AutoColumn } from 'components/Column'

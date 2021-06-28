@@ -1,4 +1,5 @@
 import { Trans } from '@lingui/macro'
+import React from 'react'
 import styled from 'styled-components/macro'
 import SettingsTab from '../Settings'
 import { Percent } from '@uniswap/sdk-core'

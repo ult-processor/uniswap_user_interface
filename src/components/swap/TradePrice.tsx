@@ -1,4 +1,4 @@
-import { useCallback } from 'react'
+import React, { useCallback } from 'react'
 import { Price, Currency } from '@uniswap/sdk-core'
 import { useContext } from 'react'
 import { Text } from 'rebass'

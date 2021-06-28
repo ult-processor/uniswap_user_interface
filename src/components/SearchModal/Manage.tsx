@@ -1,5 +1,5 @@
 import { Trans } from '@lingui/macro'
-import { useState } from 'react'
+import React, { useState } from 'react'
 import { PaddedColumn, Separator } from './styleds'
 import { RowBetween } from 'components/Row'
 import { ArrowLeft } from 'react-feather'

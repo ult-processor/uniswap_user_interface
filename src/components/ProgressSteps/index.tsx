@@ -1,4 +1,4 @@
-import { useContext } from 'react'
+import React, { useContext } from 'react'
 import styled from 'styled-components/macro'
 import { AutoColumn } from '../Column'
 import { ThemeContext } from 'styled-components'

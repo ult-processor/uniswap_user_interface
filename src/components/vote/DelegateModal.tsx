@@ -1,4 +1,4 @@
-import { ReactNode, useState } from 'react'
+import React, { ReactNode, useState } from 'react'
 import { UNI } from '../../constants/tokens'
 
 import Modal from '../Modal'

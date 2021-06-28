@@ -1,4 +1,4 @@
-import { useContext } from 'react'
+import React, { useContext } from 'react'
 import { useActiveWeb3React } from '../../hooks/web3'
 import { ExplorerDataType, getExplorerLink } from '../../utils/getExplorerLink'
 

@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2021-06-27 05:00+0000\n"
+"POT-Creation-Date: 2021-06-22 19:52+0000\n"
 "Mime-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File-ID: 4\n"
 "Project-Id-Version: uniswap-interface\n"
 "Language-Team: Serbian (Cyrillic)\n"
-"PO-Revision-Date: 2021-06-27 05:04\n"
+"PO-Revision-Date: 2021-06-22 20:05\n"
 
 #: src/pages/Pool/PositionPage.tsx
 #: src/pages/Pool/PositionPage.tsx
@@ -34,10 +34,6 @@ msgstr "${0} ЕТХ"
 #: src/components/CurrencyInputPanel/index.tsx
 msgid "(Max)"
 msgstr "(Макс)"
-
-#: src/components/AddressInputPanel/index.tsx
-msgid "(View on Explorer)"
-msgstr "(Поглед у Екплореру)"
 
 #: src/components/Header/UniBalanceContent.tsx
 msgid "(claim)"
@@ -270,14 +266,6 @@ msgstr "Одобравање"
 msgid "Approving {0}"
 msgstr "Одобравање {0}"
 
-#: src/components/Header/NetworkCard.tsx
-msgid "Arbitrum Explorer"
-msgstr "Арбитрум Екплорер"
-
-#: src/components/Header/NetworkCard.tsx
-msgid "Arbitrum Token Bridge"
-msgstr "Арбитрум Токен Бридге"
-
 #: src/components/Settings/index.tsx
 msgid "Are you sure?"
 msgstr "Јеси ли сигуран?"
@@ -341,10 +329,6 @@ msgstr "Повезивањем новчаника прихватате Uniswap L
 #: src/components/AccountDetails/index.tsx
 msgid "Change"
 msgstr "Промена"
-
-#: src/components/Header/NetworkCard.tsx
-msgid "Change your network to go back to L1"
-msgstr "Промените мрежу да бисте се вратили на Л1"
 
 #: src/components/Header/index.tsx
 msgid "Charts"
@@ -613,10 +597,6 @@ msgstr "Положите UNI-V2 LP токене"
 msgid "Deposit liquidity"
 msgstr "Ликвидност депозита"
 
-#: src/components/swap/SwapNetworkAlert.tsx
-msgid "Deposit to Arbitrum"
-msgstr "Депозит на Арбитрум"
-
 #: src/pages/Earn/index.tsx
 msgid "Deposit your Liquidity Provider tokens to receive UNI, the Uniswap protocol governance token."
 msgstr "Положите своје токене Добављача ликвидности да бисте добили УНИ, токен управљања протоколом Uniswap."
@@ -871,10 +851,6 @@ msgstr "Неважећи прималац"
 #: src/pages/Pool/index.tsx
 msgid "Learn"
 msgstr "Научи"
-
-#: src/components/Header/NetworkCard.tsx
-msgid "Learn more"
-msgstr "Сазнајте више"
 
 #: src/components/claim/ClaimModal.tsx
 #: src/pages/Pool/PositionPage.tsx
@@ -1229,10 +1205,6 @@ msgstr "Прочитајте више о неподржаним материја
 msgid "Recent Transactions"
 msgstr "Недавне трансакције"
 
-#: src/components/AddressInputPanel/index.tsx
-msgid "Recipient"
-msgstr "Прималац"
-
 #: src/components/PositionCard/V2.tsx
 #: src/components/PositionCard/index.tsx
 #: src/pages/RemoveLiquidity/V3.tsx
@@ -1412,10 +1384,6 @@ msgstr "Замени свеједно"
 msgid "Swapping {0} {1} for {2} {3}"
 msgstr "Замена {0} {1} за {2} {3}"
 
-#: src/components/Header/NetworkCard.tsx
-msgid "Switch to Ethereum"
-msgstr "Пребаците се на Етхереум"
-
 #: src/components/Popups/ClaimPopup.tsx
 msgid "Thanks for being part of the Uniswap community <0/>"
 msgstr "Хвала вам што сте део заједнице Uniswap <0/>"
@@ -1460,10 +1428,6 @@ msgstr "Трансакција није могла бити послата је�
 msgid "These tokens are commonly paired with other tokens."
 msgstr "Ови токени су обично упарени са другим токенима."
 
-#: src/components/swap/SwapNetworkAlert.tsx
-msgid "This is an alpha release of Uniswap on the Arbitrum network. You must bridge L1 assets to the network to swap them."
-msgstr "Ово је алфа издање Унисвап-а на мрежи Арбитрум. Морате повезати средства Л1 на мрежу да бисте их заменили."
-
 #: src/components/SearchModal/ImportToken.tsx
 msgid "This token doesn't appear on the active token list(s). Make sure this is the token that you want to trade."
 msgstr "Овај токен се не појављује на листи активних токена. Уверите се да је ово жетон којим желите да тргујете."
@@ -1485,8 +1449,6 @@ msgid "Tip: Custom tokens are stored locally in your browser"
 msgstr "Савет: Прилагођени токени се чувају локално у вашем прегледачу"
 
 #: src/components/swap/SwapModalHeader.tsx
-#: src/pages/CreateProposal/ProposalActionDetail.tsx
-#: src/pages/CreateProposal/ProposalActionDetail.tsx
 #: src/pages/Swap/index.tsx
 msgid "To"
 msgstr "До"
@@ -1612,10 +1574,6 @@ msgstr "Uniswap рударење ликвидности"
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
 msgid "Uniswap migration contract↗"
 msgstr "Uniswap уговор о миграцији↗"
-
-#: src/components/swap/SwapNetworkAlert.tsx
-msgid "Uniswap on <0>Arbitrum</0>"
-msgstr "Откажите на <0> Арбитруму</0>"
 
 #: src/components/SearchModal/ImportToken.tsx
 msgid "Unknown Source"
@@ -1743,10 +1701,6 @@ msgstr "Гласање се завршава приближно {0}"
 #: src/components/TransactionConfirmationModal/index.tsx
 msgid "Waiting For Confirmation"
 msgstr "Чека се потврда"
-
-#: src/components/AddressInputPanel/index.tsx
-msgid "Wallet Address or ENS name"
-msgstr "Адреса новчаника или ЕНС име"
 
 #: src/components/earn/StakingModal.tsx
 msgid "Weekly Rewards"

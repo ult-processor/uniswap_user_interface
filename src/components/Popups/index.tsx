@@ -1,3 +1,4 @@
+import React from 'react'
 import styled from 'styled-components/macro'
 import { useActivePopups } from '../../state/application/hooks'
 import { AutoColumn } from '../Column'

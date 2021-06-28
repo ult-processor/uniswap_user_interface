@@ -1,5 +1,5 @@
 import { t, Trans } from '@lingui/macro'
-import { useContext, useRef, useState } from 'react'
+import React, { useContext, useRef, useState } from 'react'
 import { Settings, X } from 'react-feather'
 import ReactGA from 'react-ga'
 import { Text } from 'rebass'

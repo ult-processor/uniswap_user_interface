@@ -1,6 +1,6 @@
 import { Trans } from '@lingui/macro'
 import { CurrencyAmount, Token } from '@uniswap/sdk-core'
-import { useCallback, useEffect } from 'react'
+import React, { useCallback, useEffect } from 'react'
 import ReactGA from 'react-ga'
 import { Heart, X } from 'react-feather'
 import styled, { keyframes } from 'styled-components'

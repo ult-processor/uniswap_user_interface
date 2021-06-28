@@ -1,3 +1,4 @@
+import React from 'react'
 import styled from 'styled-components/macro'
 import { TYPE } from 'theme'
 import { Trans } from '@lingui/macro'

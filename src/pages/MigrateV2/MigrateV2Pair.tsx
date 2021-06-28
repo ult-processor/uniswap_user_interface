@@ -1,5 +1,5 @@
 import JSBI from 'jsbi'
-import { useCallback, useMemo, useState, useEffect, ReactNode } from 'react'
+import React, { useCallback, useMemo, useState, useEffect, ReactNode } from 'react'
 import { Fraction, Percent, Price, Token, CurrencyAmount } from '@uniswap/sdk-core'
 import { Redirect, RouteComponentProps } from 'react-router'
 import { Text } from 'rebass'

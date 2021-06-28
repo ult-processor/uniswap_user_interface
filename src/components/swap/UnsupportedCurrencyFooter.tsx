@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import React, { useState } from 'react'
 import styled from 'styled-components/macro'
 import { TYPE, CloseIcon, ExternalLink } from 'theme'
 import { ButtonEmpty } from 'components/Button'
